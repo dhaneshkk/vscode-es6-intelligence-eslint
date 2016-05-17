@@ -1,0 +1,10 @@
+{
+    "globalDependencies": {
+        "express": "github:DefinitelyTyped/DefinitelyTyped/express/express.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd",
+        "mime": "github:DefinitelyTyped/DefinitelyTyped/mime/mime.d.ts#3b6d42912788a3b5b47edf271f551b80966fd9e6",
+        "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#eeede9d1ad03e27fe3537334c17ff09a77ac5819",
+        "serve-static": "github:DefinitelyTyped/DefinitelyTyped/serve-static/serve-static.d.ts#3b6d42912788a3b5b47edf271f551b80966fd9e6",
+        "express-serve-static-core": "registry:dt/express-serve-static-core#0.0.0+20160322035842"
+    },
+    "resolution": "src/typings"
+}
